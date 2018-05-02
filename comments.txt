@@ -1,0 +1,2 @@
+Hours: 15
+Comments: Had to clear before every djikstras because the thing being inputed was a global variable.  Not sure if findorCreateVertex has to add the created vertex to the map.  I commented it so it follows the exact wording for now.  Allowing for grounds to be disputed later.  
